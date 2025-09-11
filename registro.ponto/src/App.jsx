@@ -1,9 +1,13 @@
 
 import './App.css'
+import Layout from './app/Layout'
 
 export default function App() {
 return (
-  <h1>teste</h1>
+    <>
+    <Layout/>
+    </>
+  
 )
   
 }
